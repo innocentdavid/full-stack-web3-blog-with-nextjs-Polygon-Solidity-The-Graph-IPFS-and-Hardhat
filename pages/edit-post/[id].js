@@ -136,7 +136,7 @@ const button = css`
   margin-top: 15px;
   font-size: 18px;
   padding: 16px 70px;
-  box-shadow: 7px 7px rgba(0, 0, 0, .1);
+  box-shadow: 7px 7px rgba(0, 0, 0, .1)
 `
 
 const titleStyle = css`
